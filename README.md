@@ -1,7 +1,12 @@
 # Umō
-羽毛 (Umō) - A top-mount 3D-printable case for Yasui PCB by Rainkeebs.
+*羽毛 (Umō)* - A top-mount 3D-printable case for Yasui PCB by Rainkeebs.
+Name *Umō* comes from Japanese and means a "Quill" - A feather that is dipped in ink and used to write with.
 
-This design is provided to the community completely free of charge, and free to use by anyone !
+![](https://i.imgur.com/NLpYh7a.jpg)
+![](https://i.imgur.com/Yb7syOU.jpg)
+[Imgur album](https://imgur.com/gallery/zFj3k3H)
+
+This design is provided to the community completely free of charge, free of any liabilities and free to use by everyone !
 Depending on your printer's calibration, you might not be able to get a good fit right away. So print at your own risk, and know your machine !
 ## Printing your Umō
 
