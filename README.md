@@ -2,6 +2,7 @@
 羽毛 (Umō) - A top-mount 3D-printable case for Yasui PCB by Rainkeebs.
 
 This design is provided to the community completely free of charge, and free to use by anyone !
+Depending on your printer's calibration, you might not be able to get a good fit right away. So print at your own risk, and know your machine !
 ## Printing your Umō
 
 If you want to get it right the first time, it is recommended to first print out ```test-fit piece.stl``` file found in ```STLs/Other parts/``` folder to test out
