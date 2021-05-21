@@ -15,7 +15,7 @@ your fitment before committing to a full case print. The internal dimensions are
 
 Plate STLs are included as well and they do work when 3D-printed, however you might get a better fitment & typing experience by sourcing a laser-cut POM/Acrylic plate or a FR4 1.6mm plate.
 
-The case uses M2 heat inserts, that are melted into the their holes in the top piece. The plate and the bottom will then be installed into the top piece and fastened in place by M2 screws.
+The case uses M2 heat inserts, that are melted into their mounting holes in the top piece. The plate and the bottom will then be installed into the top piece and fastened in place by M2 screws.
 There are a few variations for you to print, so pick out the ones that you like, it's your case !
 ### Hardware & Parts list
 1x Bottom (any variation)
