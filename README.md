@@ -17,17 +17,20 @@ Plate STLs are included as well and they do work when 3D-printed, however you mi
 
 The case uses M2 heat inserts, that are melted into their mounting holes in the top piece. The plate and the bottom will then be installed into the top piece and fastened in place by M2 screws.
 There are a few variations for you to print, so pick out the ones that you like, it's your case !
-### Hardware & Parts list
-1x Bottom (any variation)
-1x Top (any variation)
-1x Plate (any variation)
-1x Pen holder (normal or wide, depending on your top case)
-(optional) 1x Riser
-(optional) 4x Rubber bumpons (max 10mm diameter for bumpon mounts in the bottom)
 
-10x M2 heat inserts (max length ~3.5mm, longer ones might get clogged more easily)
-4x 3-6mm M2 screws for plate (depends on your plate thickness)
-6x 4-5mm M2 screws for bottom case
+### Hardware & Parts list
+
+1x Bottom (any variation)  
+1x Top (any variation)   
+1x Plate (any variation)  
+1x Pen holder (normal or wide, depending on your top case)  
+(optional) 1x Riser  
+(optional) 4x Rubber bumpons (max 10mm diameter for bumpon mounts in the bottom)  
+
+10x M2 heat inserts (max length ~3.5mm, longer ones might get clogged more easily)  
+4x 3-6mm M2 screws for plate (depends on your plate thickness)  
+6x 4-5mm M2 screws for bottom case  
+
 ## About
 
 Designed by [Ergorius](https://github.com/ErkHal) and [KaeBoards](https://github.com/KaeBoards)
